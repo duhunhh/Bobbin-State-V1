@@ -9,3 +9,8 @@ No Bobbin：模型未检测到任何目标。
 Empty Bobbin：模型仅检测到 “Bobbin” 目标。
 Yarn Bobbin：模型同时检测到 “Bobbin” 和 “Yarn” 目标。
 数据统计：数据集中总共标注了 12,267 个 “Bobbin” 目标和 6,535 个 “Yarn” 目标（注：数据集中还包含 1,705 张未标注图像，对应 “No Bobbin” 状态）。
+In addition, our data set is too large for you to download directly, we provide you with the following two download methods.
+You can download the dataset from Quark Netdisk. URL：https://pan.quark.cn/s/fb9977b1d2b3. Extraction code: hEQP.
+You can download the dataset from Baidu Netdisk. URL：https://pan.baidu.com/s/1laSbixrVfpY8rlt0Zl8eTg?pwd=egcf. Extraction code: egcf.
+
+If you have any problem, please contact me by email：2024487434@qq.com.
